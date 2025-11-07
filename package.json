@@ -1,7 +1,7 @@
 {
-  "name": "he-thong-quan-ly-du-an",
+  "name": "project-management-system",
   "version": "1.0.0",
-  "description": "Hệ thống quản lý dự án sử dụng công nghệ blockchain",
+  "description": "Project management system using blockchain technology",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
