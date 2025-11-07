@@ -1,0 +1,13 @@
+{
+  "name": "he-thong-quan-ly-du-an",
+  "version": "1.0.0",
+  "description": "Hệ thống quản lý dự án sử dụng công nghệ blockchain",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0"
+  }
+}
