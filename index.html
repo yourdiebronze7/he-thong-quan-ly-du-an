@@ -16,7 +16,12 @@
         </div>
     </main>
     <footer>
-        <p>&copy; 2023 Hệ thống Quản lý Dự án</p>
+        <p id="footer-text"></p>
     </footer>
+    <script>
+        const footerText = document.getElementById('footer-text');
+        const currentYear = new Date().getFullYear();
+        footerText.innerHTML = `&copy; ${currentYear} Hệ thống Quản lý Dự án`;
+    </script>
 </body>
 </html>
